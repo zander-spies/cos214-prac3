@@ -1,5 +1,5 @@
 # EventFlow — PixelStorm Gaming Convention
-**COS 214 Practical 3 (2026)**
+**COS 214 Practical 3**
 
 ## Event concept
 PixelStorm is a two-day gaming convention. A central **EventControl** desk
