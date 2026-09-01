@@ -12,9 +12,9 @@ merch vendors, a medical team, a cosplay stage and a shuttle stop) that
 react to the same notice in genuinely different ways.
 
 ## Team
-- Emman — u23586975
-- [Member 2 — student number]
-- [Member 3 — student number]
+- Emmanuel - u23586975
+- Zander - u25033931
+- Tshego - u23605032
 
 ## Build & run
 ```
